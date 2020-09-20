@@ -12,12 +12,12 @@ The PIC32 code (C Language) implement the control strategy (PID controller), con
 
 **Current Control Error Plot:**
 
-<img src="Media/CurrentControl.png" width="400">
+<img src="Media/CurrentControl.png" width="600">
 
 **Step Trajectory Error Plot:**
 
-<img src="Media/BestStepTraj.png" width="400">
+<img src="Media/BestStepTraj.png" width="600">
 
 **Cubic Trajectory Error Plot:**
 
-<img src="Media/BestCubicTraj.png" width="400">
+<img src="Media/BestCubicTraj.png" width="600">
